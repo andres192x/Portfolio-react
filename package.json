@@ -25,5 +25,17 @@
     "postcss": "^8.4.21",
     "tailwindcss": "^3.2.6",
     "vite": "^4.1.0"
-  }
+  },
+  "main": "vite.config.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andres192x/Portfolio-react.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andres192x/Portfolio-react/issues"
+  },
+  "homepage": "https://github.com/andres192x/Portfolio-react#readme",
+  "description": ""
 }
